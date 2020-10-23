@@ -23,13 +23,27 @@
                 <div class="row  center align-items-center mx-0  my-row justify-content-center"
                     style="display: flex; justify-content:center">
                     <div class="div-img container" style="display: inline-block;">
-                    <div class="container">
-                      <div class="container" style="position:relative;">
-                      <img class="img-responsive img-fluid" src="images/badge__icon.jpeg" style="display:inline-block;
-                      position: relative; max-width:200px; max-height:auto;">
+
+                    <div class="div-img container" style="display: inline-block;">
+                      <div class="container img-responsive" style="position:relative;">
+                          <img class=" img-circle  img-fluid "  src="images/luis-unsplash.jpg"
+                               style="   position: relative; max-width:100px; max-height:auto;">
+                          <img class=" img-fluid" src="images/badge__icon.jpeg" style="display:inline-block;
+                         max-width:200px; max-height:auto; top:30px; margin-left:-150px; ">
+
                       </div>
-                      <img class="img-circle img-responsive img-fluid" text-center src="images/luis-unsplash.jpg"  style="position:absolute;width:100px; max-height:auto; top:20%; left:25%;">
                     </div>
+                    
+                    <!-- <div class="container">
+                      <div class="container" style="position:relative;">
+                      <img class="img-circle img-responsive img-fluid" text-center src="images/luis-unsplash.jpg" 
+                       style="position:relative;width:100px; max-height:auto;">
+                      <img class="img-responsive img-fluid" src="images/badge__icon.jpeg" style="display:inline-block;
+                      position: absolute; max-width:200px; max-height:auto; top:30px; margin-left:25%;">
+
+                      </div>
+                     
+                    </div> -->
                       <!-- <div style="position: relative">
                         <img class="img-responsive img-fluid" src="images/badge__icon.jpeg" style="width:200px; max-height:auto;">
                         <img class="img-circle img-responsive img-fluid" text-center src="images/luis-unsplash.jpg"  style="width:100px; max-height:auto; top:-190px; right:-60px;position:relative;">
